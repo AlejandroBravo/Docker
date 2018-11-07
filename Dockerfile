@@ -2,7 +2,6 @@
 # Mi sitio web
 #
 
-echo Esto es una modificacion para comprobar la creacion de una nueva imagen.
 # Se construye sobre la base de la imagen nginx
 FROM nginx:1.11-alpine
 
